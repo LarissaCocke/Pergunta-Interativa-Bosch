@@ -1,5 +1,6 @@
 # Pergunta Interativa Bosch
 Pergunta interativa codificada em html exclusivamente para o processo seletivo da empresa Bosch.
+O avaliador deverá baixar o arquivo "index.html" disponível e executá-lo em um navegador para visualização da proposta.
 
 Código em html:
 
